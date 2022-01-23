@@ -7,4 +7,4 @@
 
 3. Then take the API key you find and give it to the main.py file above.
  
-4. You can now execute that file and now you can use your bot by giving the /start command.
+4. You can now execute that file and now you can use your bot by giving the `/start` command.
