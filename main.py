@@ -12,7 +12,7 @@ def sample_responses(input_text):
         return "Hey! How's it going?"
 
     if user_message in ("who are you", "who are you?"):
-        return "I am CODE Programmer!"
+        return "I am TheCodeBase_bot!"
 
     if user_message in ("time", "time?"):
         now = datetime.now()
